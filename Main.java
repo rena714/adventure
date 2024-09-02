@@ -9,6 +9,7 @@ public class Main {
         String playerName = "";
         boolean isPlaying = true;
         boolean hasKnife = false;
+        
 
         System.out.println("Welcome to the Adventure Game");
         System.out.print("Enter your name: ");
